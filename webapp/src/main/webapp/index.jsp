@@ -13,10 +13,8 @@
 
     <label for="Full email"><b>Enter Full Email</b></label>
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
-    <br>
     <label for="psw"><b>Password</b></label>
     <input type="password" placeholder="Enter Password" name="psw" id="psw" required>
-    <br>
     <label for="psw-repeat"><b>Repeat Password</b></label>
     <input type="password" placeholder="Repeat Password" name="psw-repeat" id="psw-repeat" required>
     <hr>
@@ -28,8 +26,11 @@
   </div>
 
    <h1> Good Luck </h1>
-   <p> Devops Docker </p>
-   <h1> All will be Great </h1>
+   <p> Devops, Ansible & Docker </p>
+   <h1> Everything will be Great </h1>
 
+
+
+   <h1> SAARE JAHAAN SE ACCHA HINDU SITA HAMAARA HAMAARA SAARE JAHAAN SE ACCHA </h1>
   
 </form>
