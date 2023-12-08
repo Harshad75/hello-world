@@ -26,10 +26,6 @@
   </div>
 
    <h1> Good Luck </h1>
-   <p> Devops, Ansible & Docker </p>
-   <h1> Everything will be Great </h1>
 
-   <p> Help </p>
-   <p> random </p>
    <h1> Kubernetes </h1> 
 </form>
